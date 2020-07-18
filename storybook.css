@@ -192,16 +192,16 @@
     font-family: 'Dancing Script', cursive;
     transform: translate(0%, 4%);
 }
-.imgStorage .imgCont1:nth-child(1)
+.imgStorage .imgCont10:nth-child(1)
 {
     grid-column: span 2;
-    background-image: url(12.jpg);
+    background-image: url(10.jpg);
     background-position: center;
     background-size: cover;
     height: 300px;
     transform: translate(0%, 9%);
 }
-.imgStorage .imgCont1:nth-child(2)
+.imgStorage .imgCont10:nth-child(2)
 {
     background: transparent;
     grid-column: span 2;
@@ -326,6 +326,91 @@
 .imgStorage .imgCont17:nth-child(3)
 {
     background-image: url(12.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont18:nth-child(1)
+{
+    grid-column: span 2;
+    background-image: url(58.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont18:nth-child(2)
+{
+    background-image: url(54.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont18:nth-child(3)
+{
+    background-image: url(53.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont19:nth-child(1)
+{
+    grid-column: span 2;
+    background-image: url(57.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont19:nth-child(2)
+{
+    background-image: url(59.jpg);
+    background-position: center;
+    background-size: cover;
+    grid-column: span 2;
+}
+.imgStorage .imgCont20:nth-child(1)
+{
+    grid-column: span 2;
+    background-image: url(62.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont20:nth-child(2)
+{
+    background-image: url(70.jpg);
+    background-position: center;
+    background-size: cover;
+    grid-column: span 2;
+}
+.imgStorage .imgCont21:nth-child(1)
+{
+    grid-column: span 2;
+    background-image: url(78.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont21:nth-child(2)
+{
+    background-image: url(63.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont21:nth-child(3)
+{
+    background-image: url(62.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont22:nth-child(1)
+{
+    grid-column: span 2;
+    background-image: url(79.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont22:nth-child(2)
+{
+    background-image: url(80.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.imgStorage .imgCont22:nth-child(3)
+{
+    background-image: url(82.jpg);
     background-position: center;
     background-size: cover;
 }
